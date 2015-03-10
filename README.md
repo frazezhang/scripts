@@ -8,3 +8,9 @@ Some scripts writen myself
 
 
 ### Test
+
+
+
+``` Go
+fmt.Sprintf("Hello\n")
+```
